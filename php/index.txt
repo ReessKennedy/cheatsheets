@@ -1,0 +1,23 @@
+Really the only 4 things you need to know to program: 
+1. Setup place to store info in a database
+2. Submit info to a database
+3. Retrieve info from a database
+4. Edit info in a database
+
+Why do people make it so complicated? This is really all you need to know! Yeah, you need to unpack each one of these things and how to do these things but once you have these four things down, everything else on top of that is just icing and, sometimes, unnecessary complexity. 
+
+1. Setup place to store info in a database
+
+
+2. Submit info to a database
+	Two form methods: 
+	GET = appends submission to URL, not secure
+	POST = hidden for sensitive info
+
+	Then add location / action source!
+
+
+3. Retrieve
+
+
+4. Edit info in a database
